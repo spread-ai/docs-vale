@@ -14,21 +14,27 @@ arbitrary[Nn]ode
 [Aa]utorouting
 
 # B
+backgroundColor
 [Bb]oolean
+browserify
 [Bb]usbar
 
 # C
 CAD
 camel[Cc]ase
 CDC
+callbackFunction
 [Cc]annot
 [Cc]apacitanes
 [Cc]atchable
 [Cc]entered
 [Cc]onfig
 Cron
+currentItem
+currentIndex
 
 # D
+[Dd]atepicker
 DTC
 [Dd]atasource
 [Dd]isconnector
@@ -41,14 +47,26 @@ EIN
 
 # F
 [Ff]ilepicker
+[Ff]iletype
+fullPath
 
 # G
 GPT
 [Gg]it
 GitHub
+gracefully
+
+# H
+hardcoded
+hostname
+
+# I
+isVisible
+[Ii]terable
 
 # J
 JSObject
+JSONata
 Jira
 [Jj]inja
 
@@ -58,36 +76,63 @@ Kabelbaum
 Kommunikationsmatrix
 Kundenspezifischer
 
+# L
+Lodash
+
 # M
 Mechatronics
 MkDocs
 [Mm]ultiselect
 [Mm]ultitree
 
+# N
+namespace
+navigateTo
+
 # O
 OAuth
+onBlur
+onClick
+onFocus
+onPause
+onPlay
+onSave
+onSort
+onSuccess
 
 # P
+params
 PDF
 [Pp]ostprocessing
 Powerpoint
 Powershell
+px
 
 # R
+[Rr]ecaptcha
+[Rr]epo
 REST
 [Rr]eadme
 [Rr]eproduceability
+[Rr]eusability
 Rhai
 
 # S
 S-GPT
+[Ss]ankey
+setVisibility
 SPREAD
+[Ss]treamable
+[Ss]ubflow
+[Ss]ubmenu
 SVG
 
 # T
 [Tt]ooltip
 
 # U
+[Uu]ndeployed
+URI
 URL
 
 # V
@@ -95,4 +140,5 @@ VIN
 VPN
 
 # W
+[Ww]idget
 WMI
