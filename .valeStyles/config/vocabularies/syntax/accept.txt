@@ -40,6 +40,7 @@ chartData
 clearInterval
 [Cc]onfig
 Costa Rica
+countryCode
 Cron
 Ctrl
 currencyCode
@@ -75,6 +76,7 @@ fieldState
 filterText
 fontFamily
 formData
+formattedDate
 frontmatter
 fullPath
 
@@ -87,18 +89,22 @@ gracefully
 
 # H
 hardcoded
+hasChanges
 hostname
 
 # I
 idToken
 iFrame
 isAnonymous
-isDisabled
+isChecked
 isDirty
+isDisabled
 isEnabled
+isRequired
 isValid
 isVisible
 itemId
+itemSpacing
 [Ii]terable
 
 # J
@@ -115,13 +121,16 @@ Kommunikationsmatrix
 Kundenspezifischer
 
 # L
+listData
 [Ll]odash
 llmPost
 LLMRequest
 LLMResponse
 
 # M
+maxCount
 [Mm]echatronic
+messageMetadata
 Mixcloud
 MkDocs
 modalName
@@ -137,10 +146,13 @@ OAuth
 onBlur
 onChange
 onClick
+onClose
+onDiscard
 onEnd
 onFocus
 onPause
 onPlay
+onReady
 onSave
 onSort
 onSubmit
@@ -156,10 +168,12 @@ playState
 [Pp]ostprocessing
 Powerpoint
 Powershell
+pre
 primaryColor
 px
 
 # R
+rawbinary
 [Rr]ecaptcha
 [Rr]ecurse
 [Rr]epo
@@ -183,9 +197,11 @@ selectedItem
 selectedMarker
 selectedRow
 selectedValues
+setColor
 setDisabled
 setImage
 setInterval
+setLabel
 setPlaying
 setRequired
 setText
@@ -206,6 +222,7 @@ strokeStyle
 SVG
 
 # T
+tableData
 targetIframe
 targetOrigin
 [Tt]ooltip
@@ -217,8 +234,10 @@ triggeredRow
 
 # U
 [Uu]ndeployed
+[Uu]nformatted
 [Uu]npublish
 [Uu]npublishing
+updatedRow[s]
 updateModel
 updateUsers
 URI
