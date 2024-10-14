@@ -2,6 +2,7 @@
 
 # A
 [Aa]nalyser
+analyser
 API
 appFont
 [Aa]pplication
@@ -49,7 +50,10 @@ currentView
 # D
 [Dd]atepicker
 dialCode
+dialog
 dividerColor
+doesnt
+dont
 DTC
 [Dd]atasource
 [Dd]isconnector
