@@ -48,6 +48,7 @@ EIN
 # F
 [Ff]ilepicker
 [Ff]iletype
+frontmatter
 fullPath
 
 # G
@@ -80,7 +81,7 @@ Kundenspezifischer
 Lodash
 
 # M
-Mechatronics
+[Mm]echatronic
 MkDocs
 [Mm]ultiselect
 [Mm]ultitree
@@ -111,7 +112,7 @@ px
 # R
 [Rr]ecaptcha
 [Rr]epo
-REST
+REST API
 [Rr]eadme
 [Rr]eproduceability
 [Rr]eusability
@@ -120,7 +121,10 @@ Rhai
 # S
 S-GPT
 [Ss]ankey
+schemavis
 setVisibility
+sPath
+spath_eval
 SPREAD
 [Ss]treamable
 [Ss]ubflow
@@ -129,6 +133,7 @@ SVG
 
 # T
 [Tt]ooltip
+[Tt]ransformative
 
 # U
 [Uu]ndeployed
@@ -142,3 +147,10 @@ VPN
 # W
 [Ww]idget
 WMI
+
+# X
+xMap
+xPath
+
+# Y
+yaml-migration
