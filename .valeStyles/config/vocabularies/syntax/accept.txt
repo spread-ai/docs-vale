@@ -50,6 +50,7 @@ GitHub
 # J
 JSObject
 Jira
+[Jj]inja
 
 # K
 KBLs
