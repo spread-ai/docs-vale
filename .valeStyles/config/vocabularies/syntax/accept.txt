@@ -3,6 +3,7 @@
 # A
 [Aa]nalyser
 API
+appFont
 [Aa]pplication
 [Aa]ppsmith
 arbitrary[Nn]ode
@@ -12,49 +13,72 @@ arbitrary[Nn]ode
 [Aa]utoplay
 [Aa]utopopulated
 [Aa]utorouting
+az
 
 # B
 backgroundColor
+blueprintjs
 [Bb]oolean
+borderRadius
+boxShadow
 browserify
 [Bb]usbar
 
 # C
 CAD
 camel[Cc]ase
+capSide
+capType
 CDC
 callbackFunction
 [Cc]annot
 [Cc]apacitanes
 [Cc]atchable
 [Cc]entered
+chartData
+clearInterval
 [Cc]onfig
+Costa Rica
 Cron
+Ctrl
+currencyCode
 currentItem
 currentIndex
+currentView
 
 # D
 [Dd]atepicker
+dialCode
+dividerColor
 DTC
 [Dd]atasource
 [Dd]isconnector
 Disconnectors
+downloadjs
 
 # E
 EChart
 EI Graph
 EIN
+enableTelemetry
+enum
+emptyInstance
 
 # F
+fieldState
 [Ff]ilepicker
 [Ff]iletype
+filterText
+fontFamily
+formData
 frontmatter
 fullPath
 
 # G
-GPT
+getUsers
 [Gg]it
 GitHub
+GPT
 gracefully
 
 # H
@@ -62,7 +86,15 @@ hardcoded
 hostname
 
 # I
+idToken
+iFrame
+isAnonymous
+isDisabled
+isDirty
+isEnabled
+isValid
 isVisible
+itemId
 [Ii]terable
 
 # J
@@ -70,6 +102,7 @@ JSObject
 JSONata
 Jira
 [Jj]inja
+jsDelivr
 
 # K
 KBLs
@@ -78,11 +111,16 @@ Kommunikationsmatrix
 Kundenspezifischer
 
 # L
-Lodash
+[Ll]odash
+llmPost
+LLMRequest
+LLMResponse
 
 # M
 [Mm]echatronic
+Mixcloud
 MkDocs
+modalName
 [Mm]ultiselect
 [Mm]ultitree
 
@@ -93,28 +131,40 @@ navigateTo
 # O
 OAuth
 onBlur
+onChange
 onClick
+onEnd
 onFocus
 onPause
 onPlay
 onSave
 onSort
+onSubmit
 onSuccess
 
 # P
-params
+pageNo
+pageSize
+param
+partnumber
 PDF
+playState
 [Pp]ostprocessing
 Powerpoint
 Powershell
+primaryColor
 px
 
 # R
 [Rr]ecaptcha
+[Rr]ecurse
 [Rr]epo
 REST API
 [Rr]eadme
 [Rr]eproduceability
+resetChildren
+resizable
+responseMeta
 [Rr]eusability
 Rhai
 
@@ -122,35 +172,72 @@ Rhai
 S-GPT
 [Ss]ankey
 schemavis
+scroller
+searchText
+selectedDate
+selectedItem
+selectedMarker
+selectedRow
+selectedValues
+setDisabled
+setImage
+setInterval
+setPlaying
+setRequired
+setText
+setValue
 setVisibility
+showAlert
+sourceData
 sPath
 spath_eval
 SPREAD
+src
+srcDoc
+storeValue
 [Ss]treamable
+strokeStyle
 [Ss]ubflow
 [Ss]ubmenu
 SVG
 
 # T
+targetIframe
+targetOrigin
 [Tt]ooltip
+trackpad
 [Tt]ransformative
+triggeredItem
+triggerEvent
+triggeredRow
 
 # U
 [Uu]ndeployed
+[Uu]npublish
+[Uu]npublishing
+updateModel
+updateUsers
 URI
 URL
+useCase
+userInput
+usersTable
 
 # V
 VIN
+Visio
 VPN
 
 # W
 [Ww]idget
+Wistia
 WMI
 
 # X
+xAxis
 xMap
 xPath
 
 # Y
 yaml-migration
+yAxis
