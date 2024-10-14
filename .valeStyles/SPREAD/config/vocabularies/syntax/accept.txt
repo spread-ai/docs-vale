@@ -1,0 +1,97 @@
+# A list of terms to ignore when linting using Vale (add terms in the alphabetical list)
+
+# A
+[Aa]nalyser
+API
+[Aa]pplication
+[Aa]ppsmith
+arbitrary[Nn]ode
+[Aa]sync
+[Aa]utocomplete
+[Aa]utofill
+[Aa]utoplay
+[Aa]utopopulated
+[Aa]utorouting
+
+# B
+[Bb]oolean
+[Bb]usbar
+
+# C
+CAD
+camel[Cc]ase
+CDC
+[Cc]annot
+[Cc]apacitanes
+[Cc]atchable
+[Cc]entered
+[Cc]onfig
+Cron
+
+# D
+DTC
+[Dd]atasource
+[Dd]isconnector
+Disconnectors
+
+# E
+EChart
+EI Graph
+EIN
+
+# F
+[Ff]ilepicker
+
+# G
+GPT
+[Gg]it
+GitHub
+
+# J
+JSObject
+Jira
+
+# K
+KBLs
+Kabelbaum
+Kommunikationsmatrix
+Kundenspezifischer
+
+# M
+Mechatronics
+MkDocs
+[Mm]ultiselect
+[Mm]ultitree
+
+# O
+OAuth
+
+# P
+PDF
+[Pp]ostprocessing
+Powerpoint
+Powershell
+
+# R
+REST
+[Rr]eadme
+[Rr]eproduceability
+Rhai
+
+# S
+S-GPT
+SPREAD
+SVG
+
+# T
+[Tt]ooltip
+
+# U
+URL
+
+# V
+VIN
+VPN
+
+# W
+WMI
