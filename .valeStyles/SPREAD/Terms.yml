@@ -6,6 +6,7 @@ action:
      name: replace
 swap:
      Engineering Intelligence Network: Engineering Intelligence Graph
+     Connectivity Analyser: Connectivity Analyzer
      yaml: YAML
      data model: information model
      json: JSON

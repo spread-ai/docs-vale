@@ -13,3 +13,4 @@ exceptions:
      - ESF
      - XML
      - YAML
+     - JSON
