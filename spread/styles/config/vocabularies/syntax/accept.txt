@@ -3,6 +3,7 @@
 # A
 [Aa]nalyser
 analyser
+and so on
 API
 appFont
 [Aa]pplication
@@ -38,8 +39,8 @@ callbackFunction
 [Cc]entered
 chartData
 clearInterval
+[Cc]odings
 [Cc]onfig
-Costa Rica
 countryCode
 Cron
 Ctrl
