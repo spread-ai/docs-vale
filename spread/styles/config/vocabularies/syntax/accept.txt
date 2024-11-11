@@ -140,6 +140,7 @@ modalName
 # N
 namespace
 navigateTo
+NO
 
 # O
 OAuth
@@ -245,6 +246,7 @@ URL
 useCase
 userInput
 usersTable
+[Uu]sually
 
 # V
 VIN
@@ -264,3 +266,4 @@ xPath
 # Y
 yaml-migration
 yAxis
+YES
