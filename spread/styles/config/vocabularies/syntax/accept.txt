@@ -1,6 +1,7 @@
 # A list of terms to ignore when linting using Vale (add terms in the alphabetical list)
 
 # A
+[Aa]llows
 [Aa]nalyser
 analyser
 and so on
