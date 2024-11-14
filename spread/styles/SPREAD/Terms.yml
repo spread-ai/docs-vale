@@ -14,3 +14,5 @@ swap:
      xpath: xPath
      xml: XML
      graphQL: GraphQL
+     change sets: changesets
+     data sets: datasets
