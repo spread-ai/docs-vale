@@ -12,7 +12,7 @@ jobs:
                # - name: Install zip
                #   run: apt install zip -y
                - name: Zip the Vale Package
-                 run: zip -r spread.zip spread
+                 run: zip -r spread.zip spread/
 
      release:
           runs-on: ubuntu-latest
