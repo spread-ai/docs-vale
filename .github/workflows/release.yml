@@ -10,7 +10,7 @@ jobs:
           runs-on: ubuntu-latest
           steps:
                - name: Install zip
-                 run: cd ..; ls -al
+                 run: cd ../docs-vale; ls -al
                - name: Zip the Vale Package
                  run: zip -r spread.zip spread/
 
