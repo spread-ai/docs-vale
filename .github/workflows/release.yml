@@ -9,8 +9,8 @@ jobs:
      zip:
           runs-on: ubuntu-latest
           steps:
-               # - name: Install zip
-               #   run: apt install zip -y
+               - name: Install zip
+                 run: ls -al
                - name: Zip the Vale Package
                  run: zip -r spread.zip spread/
 
