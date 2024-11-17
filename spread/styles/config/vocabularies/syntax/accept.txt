@@ -89,6 +89,7 @@ getUsers
 GitHub
 GPT
 gracefully
+GraphQL
 
 # H
 hardcoded
