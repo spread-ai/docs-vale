@@ -38,7 +38,7 @@ callbackFunction
 [Cc]apacitanes
 [Cc]atchable
 [Cc]entered
-[Cc]hangeset
+[Cc]hangeset[s]
 chartData
 clearInterval
 [Cc]odings
