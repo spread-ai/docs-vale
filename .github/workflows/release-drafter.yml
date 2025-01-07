@@ -24,3 +24,9 @@ jobs:
                       publish: true
                  env:
                       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+               - name: Upload into Release
+                 uses: softprops/action-gh-release@v2
+                 with:
+                      files: spread.zip
+                      tag_name: ${{github.event.release.tag_name}}
