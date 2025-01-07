@@ -1,5 +1,4 @@
 name: Release Drafter
-
 on:
      push:
           branches:
@@ -9,6 +8,15 @@ permissions:
      contents: read
 
 jobs:
+     zip:
+          runs-on: ubuntu-latest
+          steps:
+               - uses: actions/checkout@v4
+               - name: Install zip
+                 run: ls -al
+               - name: Zip the Vale Package
+                 run: zip -r spread.zip spread
+
      update_release_draft:
           name: Update Release Draft
           permissions:
@@ -19,6 +27,6 @@ jobs:
                - uses: release-drafter/release-drafter@v6
                  with:
                       commitish: main
-                      #   publish: true
+                      publish: true
                  env:
                       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
