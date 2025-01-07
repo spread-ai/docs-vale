@@ -208,7 +208,6 @@ selectedItem
 selectedMarker
 selectedRow
 selectedValues
-Server
 setColor
 setDisabled
 setImage
