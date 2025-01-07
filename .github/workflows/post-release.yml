@@ -1,0 +1,27 @@
+name: Post Release
+run-name: Post Release for ${{ github.event.release.tag_name }}
+
+on:
+     release:
+          types: [published]
+
+permissions:
+     contents: write
+     pull-requests: write
+
+jobs:
+     publish:
+          name: Publish vale
+          runs-on: ubuntu-latest
+          steps:
+               - name: Checkout
+                 uses: actions/checkout@v4
+               - name: Zip the folder
+                 run: zip -r spread.zip spread
+               - name: Upload Release Asset
+                 uses: softprops/action-gh-release@v2
+                 with:
+                      tag_name: ${{github.event.release.tag_name}}
+                      files: spread.zip
+                 env:
+                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
