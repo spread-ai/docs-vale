@@ -10,7 +10,7 @@ appFont
 [Aa]pplication
 [Aa]ppsmith
 arbitrary[Nn]ode
-[Aa][Rr][Xx][Mm][Ll]
+(?i)arxml
 [Aa]sync
 [Aa]utocomplete
 [Aa]utofill
@@ -46,7 +46,7 @@ clearInterval
 [Cc]odings
 [Cc]onfig
 countryCode
-[Cc][Ss][Vv]
+(?i)csv
 Cron
 Ctrl
 currencyCode
@@ -112,7 +112,7 @@ itemSpacing
 [Ii]terable
 
 # J
-[Jj][Ss][Oo][Nn]
+(?i)JSON
 JSObject
 JSONata
 Jira
@@ -122,7 +122,7 @@ jt
 JT
 
 # K
-[Kk][Bb][Ll]
+(?i)KBL
 KBLs
 Kabelbaum
 Kommunikationsmatrix
@@ -152,7 +152,7 @@ NO
 
 # O
 OAuth
-[Oo][Dd][Xx]
+(?i)ODX
 onBlur
 onChange
 onClick
@@ -173,8 +173,8 @@ pageNo
 pageSize
 param
 partnumber
-[Pp][Dd][Ff]
-[Pp][Dd][Xx]
+(?i)PDF
+(?i)PDX
 playState
 [Pp]ostprocessing
 Powerpoint
@@ -230,7 +230,7 @@ storeValue
 strokeStyle
 [Ss]ubflow
 [Ss]ubmenu
-[Ss][Vv][Gg]
+(?i)SVG
 
 # T
 tableData
@@ -259,7 +259,7 @@ usersTable
 [Uu]sually
 
 # V
-[Vv][Ee][Cc]
+(?i)VEC
 VIN
 Visio
 VPN
@@ -271,9 +271,9 @@ WMI
 
 # X
 xAxis
-[Xx][Ll][Ss]
-[Xx][Ll][Ss][Xx]
-[Xx][Mm][Ll]
+(?i)XLS
+(?i)XLSX
+(?i)XML
 xMap
 xPath
 
