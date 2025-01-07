@@ -17,7 +17,9 @@ jobs:
                - name: Checkout
                  uses: actions/checkout@v4
                - name: Zip the folder
-                 run: zip -r spread.zip spread
+                 run: |
+                      ls -al
+                      zip -r spread.zip spread
                - name: Upload Release Asset
                  uses: softprops/action-gh-release@v2
                  with:
