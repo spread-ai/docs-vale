@@ -10,8 +10,7 @@ appFont
 [Aa]pplication
 [Aa]ppsmith
 arbitrary[Nn]ode
-arxml
-ARXML
+[Aa][Rr][Xx][Mm][Ll]
 [Aa]sync
 [Aa]utocomplete
 [Aa]utofill
@@ -47,8 +46,7 @@ clearInterval
 [Cc]odings
 [Cc]onfig
 countryCode
-csv
-CSV
+[Cc][Ss][Vv]
 Cron
 Ctrl
 currencyCode
@@ -61,8 +59,6 @@ currentView
 dialCode
 dialog
 dividerColor
-doesnt
-dont
 DTC
 [Dd]atasource
 [Dd]isconnector
@@ -72,7 +68,6 @@ downloadjs
 # E
 EChart
 EI Graph
-EIN
 enableTelemetry
 enum
 emptyInstance
@@ -117,6 +112,7 @@ itemSpacing
 [Ii]terable
 
 # J
+[Jj][Ss][Oo][Nn]
 JSObject
 JSONata
 Jira
@@ -126,8 +122,7 @@ jt
 JT
 
 # K
-kbl
-KBL
+[Kk][Bb][Ll]
 KBLs
 Kabelbaum
 Kommunikationsmatrix
@@ -157,8 +152,7 @@ NO
 
 # O
 OAuth
-odx
-ODX
+[Oo][Dd][Xx]
 onBlur
 onChange
 onClick
@@ -179,9 +173,8 @@ pageNo
 pageSize
 param
 partnumber
-PDF
-pdx
-PDX
+[Pp][Dd][Ff]
+[Pp][Dd][Xx]
 playState
 [Pp]ostprocessing
 Powerpoint
@@ -237,7 +230,7 @@ storeValue
 strokeStyle
 [Ss]ubflow
 [Ss]ubmenu
-SVG
+[Ss][Vv][Gg]
 
 # T
 tableData
@@ -266,8 +259,7 @@ usersTable
 [Uu]sually
 
 # V
-vec
-VEC
+[Vv][Ee][Cc]
 VIN
 Visio
 VPN
@@ -279,12 +271,9 @@ WMI
 
 # X
 xAxis
-xls
-XLS
-xlsx
-XLSX
-xml
-XML
+[Xx][Ll][Ss]
+[Xx][Ll][Ss][Xx]
+[Xx][Mm][Ll]
 xMap
 xPath
 
