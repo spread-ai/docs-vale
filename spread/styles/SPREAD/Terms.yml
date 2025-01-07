@@ -9,10 +9,8 @@ swap:
      Connectivity Analyser: Connectivity Analyzer
      yaml: YAML
      data model: information model
-     json: JSON
      spath: sPath
      xpath: xPath
-     xml: XML
      graphQL: GraphQL
      change set: changeset
      change sets: changesets
