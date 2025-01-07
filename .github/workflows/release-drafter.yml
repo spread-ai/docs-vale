@@ -22,21 +22,3 @@ jobs:
                       publish: true
                  env:
                       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     build:
-          runs-on: ubuntu-latest
-          steps:
-               - name: Checkout code
-                 uses: actions/checkout@v2
-
-               - name: Zip the folder
-                 run: |
-                      zip -r spread.zip spread
-
-               - name: Upload Release Asset
-                 uses: softprops/action-gh-release@v2
-                 with:
-                      tag_name: ${{github.event.release.tag_name}}
-                      files: spread.zip
-                 env:
-                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
