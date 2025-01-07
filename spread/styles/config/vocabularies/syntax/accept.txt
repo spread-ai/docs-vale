@@ -10,6 +10,8 @@ appFont
 [Aa]pplication
 [Aa]ppsmith
 arbitrary[Nn]ode
+arxml
+ARXML
 [Aa]sync
 [Aa]utocomplete
 [Aa]utofill
@@ -29,6 +31,7 @@ browserify
 
 # C
 CAD
+cad
 camel[Cc]ase
 capSide
 capType
@@ -44,6 +47,8 @@ clearInterval
 [Cc]odings
 [Cc]onfig
 countryCode
+csv
+CSV
 Cron
 Ctrl
 currencyCode
@@ -117,8 +122,12 @@ JSONata
 Jira
 [Jj]inja
 jsDelivr
+jt
+JT
 
 # K
+kbl
+KBL
 KBLs
 Kabelbaum
 Kommunikationsmatrix
@@ -148,6 +157,8 @@ NO
 
 # O
 OAuth
+odx
+ODX
 onBlur
 onChange
 onClick
@@ -169,6 +180,8 @@ pageSize
 param
 partnumber
 PDF
+pdx
+PDX
 playState
 [Pp]ostprocessing
 Powerpoint
@@ -253,6 +266,8 @@ usersTable
 [Uu]sually
 
 # V
+vec
+VEC
 VIN
 Visio
 VPN
@@ -264,6 +279,12 @@ WMI
 
 # X
 xAxis
+xls
+XLS
+xlsx
+XLSX
+xml
+XML
 xMap
 xPath
 
