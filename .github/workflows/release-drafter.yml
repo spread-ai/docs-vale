@@ -9,8 +9,8 @@ permissions:
      contents: read
 
 jobs:
-     update_release_draft:
-          name: Update Release Draft
+     publish_release:
+          name: Publish Release
           permissions:
                contents: write
                pull-requests: write
