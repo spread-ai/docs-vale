@@ -153,6 +153,7 @@ NO
 # O
 OAuth
 (?i)ODX
+OEM[s]
 onBlur
 onChange
 onClick
@@ -176,6 +177,7 @@ partnumber
 (?i)PDF
 (?i)PDX
 playState
+(?!)PNG
 [Pp]ostprocessing
 Powerpoint
 Powershell
@@ -236,6 +238,7 @@ strokeStyle
 tableData
 targetIframe
 targetOrigin
+(?!)TIFF
 [Tt]ooltip
 trackpad
 [Tt]ransformative
