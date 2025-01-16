@@ -1,6 +1,7 @@
 # A list of terms to ignore when linting using Vale (add terms in the alphabetical list)
 
 # A
+[Aa]gentic
 [Aa]llows
 [Aa]nalyser
 analyser
@@ -67,7 +68,7 @@ downloadjs
 
 # E
 EChart
-EI Graph
+EI
 enableTelemetry
 enum
 emptyInstance
@@ -77,6 +78,7 @@ fieldState
 [Ff]ilepicker
 [Ff]iletype
 filterText
+fluidic
 fontFamily
 formData
 formattedDate
