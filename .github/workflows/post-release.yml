@@ -11,18 +11,11 @@ permissions:
 
 jobs:
      publish:
-          name: Publish vale
+          name: Publish vale package
           runs-on: ubuntu-latest
           steps:
-               - name: Checkout
-                 uses: actions/checkout@v4
-               - name: Zip the folder
-                 run: |
-                      zip -r spread.zip spread
-               - name: Upload Release Asset
+               - name: Upload into Release
                  uses: softprops/action-gh-release@v2
                  with:
+                      files: helm/charts/main/global-*.tgz
                       tag_name: ${{github.event.release.tag_name}}
-                      files: spread.zip
-                 env:
-                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

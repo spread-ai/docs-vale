@@ -69,9 +69,11 @@ downloadjs
 # E
 EChart
 EI
-enableTelemetry
-enum
 emptyInstance
+enableTelemetry
+endif
+enum
+
 
 # F
 fieldState
@@ -240,6 +242,8 @@ strokeStyle
 tableData
 targetIframe
 targetOrigin
+[Tt]elematics
+[Tt]elemetrics
 (?!)TIFF
 [Tt]ooltip
 trackpad
@@ -256,6 +260,7 @@ triggeredRow
 updatedRow[s]
 updateModel
 updateUsers
+Upskilling Coach
 URI
 URL
 useCase
