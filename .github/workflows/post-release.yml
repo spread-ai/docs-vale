@@ -1,5 +1,5 @@
 name: Post Release
-run-name: Post Release
+run-name: Post Release for ${{ github.event.release.tag_name }}
 
 on:
      push:
