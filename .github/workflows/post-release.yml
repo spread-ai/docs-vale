@@ -1,7 +1,11 @@
 name: Post Release
 run-name: Post Release for ${{ github.event.release.tag_name }}
 
-on: release
+on:
+     workflow_run:
+          workflows: [Release]
+          types:
+               - completed
 
 permissions:
      contents: write
