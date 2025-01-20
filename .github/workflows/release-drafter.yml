@@ -26,3 +26,5 @@ jobs:
                  uses: benc-uk/workflow-dispatch@v1
                  with:
                       workflow: post-release.yml
+                 env:
+                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
