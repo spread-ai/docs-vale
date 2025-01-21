@@ -2,9 +2,8 @@ name: Release Drafter
 
 on:
      push:
-          # Sequence of patterns matched against refs/tags
-          tags:
-               - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+          branches:
+               - main
 
 permissions:
      contents: read
@@ -22,9 +21,4 @@ jobs:
                       commitish: main
                       publish: true
                  env:
-                      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-               - name: Upload into Release
-                 uses: softprops/action-gh-release@v2
-                 with:
-                      files: spread.zip
-                      tag_name: ${{github.event.release.tag_name}}
+                      GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
